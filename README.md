@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/78095105?s=400&u=bb83ba0f1e1fe5404b932f3200304f463f686be0&v=4" />
    <h1 align="center">Hi 👋, I'm Guillermo Ballarin</h1>
 </p>
-<h3 align="center">A secondary school from Spain</h3>
+<h3 align="center">A secondary school student from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilantr0&label=Views&color=e24a18&style=flat" alt="wilantr0" /> </p>
 
